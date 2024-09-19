@@ -657,12 +657,12 @@ section,
 @media (max-width: 768px) {
   .hero h2 {
     padding-top: 10px;
-    font-size: 38px;
+    font-size: 32px;
     text-align: center;
   }
 
   .hero p {
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
   }
 }
